@@ -1,0 +1,12 @@
+Need these files here:
+
+ARMIPS assembler by Kingdom, at least v0.9
+- armips.exe
+
+BLZ by CUE
+- blz.exe
+
+Nintendo DS rom tool, grab it from devkitpro
+- ndstool.exe
+- libgcc_s_sjlj-1.dll
+- libstdc++-6.dll

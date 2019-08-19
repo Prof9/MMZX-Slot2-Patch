@@ -1,0 +1,6 @@
+out/
+temp/
+*.bps
+*.dll
+*.exe
+*.nds
